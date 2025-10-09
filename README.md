@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Fabio Giorgi Panazzolo</h1>
+<h1 align="center">Hello, I am Fabio Giorgi Panazzolo 👋</h1>
 <h3 align="center">A passionate IT student from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prise12&label=Profile%20views&color=0e75b6&style=flat" alt="prise12" /> </p>

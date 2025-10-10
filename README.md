@@ -1,29 +1,32 @@
-<h1 align="center">Bonjour, je suis Fabio Giorgi Panazzolo 👋</h1>
+<h1 align="center">👋 Bonjour, je suis Fabio Giorgi Panazzolo</h1>
 
-<h3 align="center">Étudiant en informatique en France</h3>
-<h4 align="center">Établissement : Université de Strasbourg</h4>
+<h3 align="center">💻 Étudiant en informatique en France</h3>
+<h4 align="center">🎓 Établissement : Université de Strasbourg</h4>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=prise12&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="prise12" /> 
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prise12&theme=onestar&margin-w=10" alt="prise12" />
+    <img src="https://github-profile-trophy.vercel.app/?username=prise12&theme=onestar&margin-w=10&row=1" alt="prise12" />
   </a> 
 </p>
 
 ---
 
-- 🎮 Je travaille actuellement sur **SimStation**, un jeu de gestion et de survie dans une station polaire inspiré de *SimCity* et *Frostpunk*  
-- 📚 J’apprends actuellement **PHP, Unity, Pandas, Scikit-learn**  
-- 📫 Vous pouvez me contacter à **fabio.giorgi.panazzol@gmail.com**
+### 👨‍💻 À propos de moi
+
+- 🎮 Je travaille actuellement sur **SimStation**, un jeu de gestion et de survie dans une station polaire inspiré de *SimCity* et *Frostpunk*.  
+- 📚 J’apprends actuellement **PHP, Unity, Pandas, Scikit-learn**.  
+- ✉️ Vous pouvez me contacter à **fabio.giorgi.panazzol@gmail.com**.  
+- 🌍 Passionné par les jeux vidéo, l’IA et le développement de systèmes interactifs.
 
 ---
 
-<h3 align="left">Langages :</h3>
+<h3 align="center">🧠 Langages :</h3>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a>
@@ -41,9 +44,9 @@
   </a>
 </p>
 
-<h3 align="left">Outils & Frameworks :</h3>
+<h3 align="center">⚙️ Outils & Frameworks :</h3>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> 
   </a>
@@ -72,7 +75,22 @@
 
 ---
 
-<h3 align="center">📂 Vous trouverez ci-dessous mes projets :</h3>
+<h3 align="center">🚧 Projets :</h3>
+
+<div align="center">
+
+| 🎮 Projet | 📝 Description | 🧰 Technologies |
+|------------|----------------|----------------|
+| **SimStation** | Jeu de gestion et de survie dans une station polaire inspiré de *SimCity* | Unity, C#, Pandas |
+| **Mini WebApp PHP** | Application web de gestion de tâches | PHP, HTML, CSS |
+| **IA Prédictive** | Modèle de machine learning pour prédire des tendances | Python, Scikit-learn |
+| **Portfolio** | Site personnel présentant mes projets et compétences | HTML, JavaScript, CSS |
+
+</div>
+
+---
+
+<h3 align="center">📊 Statistiques GitHub :</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prise12&show_icons=true&locale=fr&layout=compact" alt="Langages principaux de prise12" />

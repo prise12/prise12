@@ -1,8 +1,3 @@
-@@ -1,25 +1,25 @@
-
-
-<h1 align="center">Hello, I am Fabio Giorgi Panazzolo</h1>
-
 
 <h1 align="center">Hello, I am Fabio Giorgi Panazzolo 👋</h1>
 

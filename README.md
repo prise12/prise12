@@ -1,7 +1,7 @@
-<h1 align="center">👋 Bonjour, je suis Fabio Giorgi Panazzolo</h1>
+<h1 align="center">Bonjour, je suis Fabio Giorgi Panazzolo</h1>
 
-<h3 align="center">💻 Étudiant en informatique en France</h3>
-<h4 align="center">🎓 Établissement : Université de Strasbourg</h4>
+<h3 align="center">Étudiant en informatique en France</h3>
+<h4 align="center">Établissement : Université de Strasbourg</h4>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=prise12&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="prise12" /> 
@@ -15,16 +15,16 @@
 
 ---
 
-### 👨‍💻 À propos de moi
+### À propos de moi
 
-- 🎮 Je travaille actuellement sur **SimStation**, un jeu de gestion et de survie dans une station polaire inspiré de *SimCity* et *Frostpunk*.  
-- 📚 J’apprends actuellement **PHP, Unity, Pandas, Scikit-learn**.  
-- ✉️ Vous pouvez me contacter à **fabio.giorgi.panazzol@gmail.com**.  
-- 🌍 Passionné par les jeux vidéo, l’IA et le développement de systèmes interactifs.
+- Je travaille actuellement sur **SimStation**, un jeu de gestion et de survie dans une station polaire inspiré de *SimCity* et *Frostpunk*.  
+- J’apprends actuellement **PHP, Unity, Pandas, Scikit-learn**.  
+- Vous pouvez me contacter à **fabio.giorgi.panazzol@gmail.com**.  
+- Passionné par les jeux vidéo, l’IA et le développement de systèmes interactifs.
 
 ---
 
-<h3 align="center">🧠 Langages :</h3>
+<h3 align="center">Langages :</h3>
 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -44,7 +44,7 @@
   </a>
 </p>
 
-<h3 align="center">⚙️ Outils & Frameworks :</h3>
+<h3 align="center">Outils & Frameworks :</h3>
 
 <p align="center"> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
@@ -75,9 +75,9 @@
 
 <table>
   <tr>
-    <th>🎮 Projet</th>
-    <th>📝 Description</th>
-    <th>🧰 Technologies</th>
+    <th>Projet</th>
+    <th>Description</th>
+    <th>Technologies</th>
   </tr>
 
   <tr>
@@ -105,7 +105,7 @@
   </tr>
 </table>
 
-<h3 align="center">📊 Statistiques GitHub :</h3>
+<h3 align="center">Statistiques GitHub :</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prise12&show_icons=true&locale=fr&layout=compact" alt="Langages principaux de prise12" />

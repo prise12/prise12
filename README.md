@@ -3,15 +3,6 @@
 <h3 align="center">Étudiant en informatique en France</h3>
 <h4 align="center">Établissement : Université de Strasbourg</h4>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=prise12&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="prise12" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prise12&theme=onestar&margin-w=10&row=1" alt="prise12" />
-  </a> 
-</p>
 
 ---
 
@@ -117,4 +108,16 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prise12&locale=fr" alt="Streak GitHub de prise12" />
+</p>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=prise12&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="prise12" /> 
+</p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prise12&theme=onestar&margin-w=10&row=1" alt="prise12" />
+  </a> 
 </p>

@@ -1,6 +1,15 @@
 <h1 align="center">Bonjour, je suis Fabio Giorgi Panazzolo</h1>
 
-<h3 align="center">Étudiant en informatique en France</h3>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="50" height="150" />
+</h3>
+
+<h3 align="center">
+  
+  Étudiant en informatique en France
+</h3>
+
 <h4 align="center">Établissement : Université de Strasbourg</h4>
 
 
@@ -19,21 +28,24 @@
 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="100" /> 
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100"/> 
   </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="100"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100"/> 
   </a>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="200">
+  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 </p>
 
 <h3 align="center">Outils & Frameworks :</h3>
@@ -73,7 +85,10 @@
   </tr>
 
   <tr>
-    <td><b>SimStation</b></td>
+    <td>
+      <b>SimStation</b>
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" />
+    </td>
     <td>Jeu sérieux de <b>gestion et de survie</b> dans une station polaire inspiré de <i>SimCity</i> et <i>Frostpunk</i>. Objectif : équilibrer énergie, ressources et moral de l’équipe scientifique.</td>
     <td><b>Godot (GDScript)</b></td>
   </tr>
@@ -81,7 +96,7 @@
   <tr>
     <td><b>Donjons & Dragons</b></td>
     <td>Application Java simulant un <b>jeu de rôle</b> classique. Gestion des personnages, combats, et progression via une architecture orientée objets.</td>
-    <td><b>Java (POO)</b></td>
+    <td><b>Java</b></td>
   </tr>
 
   <tr>
